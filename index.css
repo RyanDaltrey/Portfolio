@@ -20,7 +20,7 @@
 
 #boutton_comic {
     position: absolute;
-    top: 60%;
+    top: 135%;
     left: 16.5%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -28,7 +28,7 @@
 
 #boutton_restaurant {
     position: absolute;
-    top: 60%;
+    top: 135%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -36,9 +36,14 @@
 
 #boutton_voyage {
     position: absolute;
-    top: 60%;
+    top: 135%;
     right: 8.5%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 
+}
+
+.text-center {
+    margin-left: 200px;
+    margin-right: 200px;
 }
