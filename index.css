@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Sephir ;
+    src: url(./assets/fonts/Sephir-Regular.otf);
+}
+
+.texte_font {
+    font-family: Sephir;
+}
