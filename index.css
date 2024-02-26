@@ -1,0 +1,31 @@
+
+
+#image_comic , #image_restaurant , #image_voyage {
+    width: 300px;
+    height: 300px;
+}
+
+#boutton_comic {
+    position: absolute;
+    top: 60%;
+    left: 16.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+#boutton_restaurant {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+#boutton_voyage {
+    position: absolute;
+    top: 60%;
+    right: 8.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+
+}
