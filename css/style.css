@@ -40,6 +40,11 @@ body {
 .bg-secondary-light {
   background-color: rgba(0, 0, 0, 0.05); }
 
+.img-pp-linkedin{
+  width: 50% !important;
+}  
+
+
 a {
   color: #0389ff;
   -webkit-transition: .3s all ease;
