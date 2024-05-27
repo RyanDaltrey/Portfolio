@@ -44,6 +44,9 @@ body {
   width: 50% !important;
 }  
 
+#about-section .container{
+  background-color: lightblue !important;
+}
 
 a {
   color: #0389ff;
