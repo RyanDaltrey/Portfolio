@@ -48,6 +48,12 @@ body {
   background-color: lightblue !important;
 }
 
+.submit{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+
 a {
   color: #0389ff;
   -webkit-transition: .3s all ease;
