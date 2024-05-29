@@ -54,6 +54,51 @@ body {
   justify-content: center !important;
 }
 
+.logo_skills{
+  width: 75px;
+}
+
+.logo_skills_js{
+  width: 120px;
+}
+
+.logo_skills_sql{
+  width: 60px;
+}
+
+.logo_skills_php{
+  width: 60px;
+}
+
+.logo_skills_node{
+  width: 85px;
+}
+
+.logo_skills_bootstrap{
+  width: 80px;
+}
+
+.logo_skills_vsc{
+  width: 60px;
+  padding-bottom: 5px;
+}
+
+.logo_skills_figma{
+  width: 40px;
+  padding-bottom: 5px;
+}
+
+.logo_skills_trello{
+  width: 100px;
+  padding-bottom: 7px ;
+}
+
+.progressbar .caption{
+  display: flex;
+  flex-direction: column;
+  justify-content: center !important;
+}
+
 a {
   color: #0389ff;
   -webkit-transition: .3s all ease;
